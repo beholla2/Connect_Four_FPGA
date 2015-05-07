@@ -1,0 +1,10 @@
+module  a5 ( input Reset, frame_clk, input [7:0] keycode,
+               output [9:0]  A5X, A5Y);
+    
+       
+    assign A5X = 375;
+   
+    assign A5Y = 450;
+    
+
+endmodule

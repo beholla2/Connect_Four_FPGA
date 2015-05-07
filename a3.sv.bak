@@ -1,0 +1,10 @@
+module  a3 ( input Reset, frame_clk, input [7:0] keycode,
+               output [9:0]  A3X, A3Y);
+    
+       
+    assign A3X = 225;
+   
+    assign A3Y = 450;
+    
+
+endmodule

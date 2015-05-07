@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=C\:\\lab8_usb\\software\\usblab8
+newSoftwareExampleWizardPage.sopcinfoFile=C\:\\lab8_usb\\usb_system.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=C\:\\lab8_usb\\software\\usblab8_bsp

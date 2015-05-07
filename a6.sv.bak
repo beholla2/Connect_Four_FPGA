@@ -1,0 +1,10 @@
+module  a6 ( input Reset, frame_clk, input [7:0] keycode,
+               output [9:0]  A6X, A6Y);
+    
+       
+    assign A6X = 450;
+   
+    assign A6Y = 450;
+    
+
+endmodule

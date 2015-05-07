@@ -1,0 +1,13 @@
+
+
+
+module  a2 ( input Reset, frame_clk, input [7:0] keycode,
+               output [9:0]  A2X, A2Y);
+    
+       
+    assign A2X = 150;
+   
+    assign A2Y = 450;
+    
+
+endmodule
